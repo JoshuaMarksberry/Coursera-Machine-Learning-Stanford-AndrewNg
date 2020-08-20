@@ -7,7 +7,7 @@ https://www.coursera.org/learn/machine-learning
 Contains:
 
 1. Lecture Slides (You can download them on coursera)
-2. My Notes/Tuturials on submitting assigments 
+2. My Notes/Tutorials on submitting assigments 
 3. Extra Resources for learning prerequites/materials for improving yourself
 4. Solutionss to programming assignments
 5. Solutions to quizes
