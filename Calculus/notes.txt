@@ -1,9 +1,8 @@
-#1: 
+#1: (Single variable Calculus)  (Multivariable Calculus)
 Course: (Single variable Calculus) 
 Videos: Somewhere on youtube
 Course: (Multivariable Calculus) https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm
 Videos: Somewhere on youtube
-
 
 #2: Kahnacademy  
 https://www.khanacademy.org/math/multivariable-calculus
