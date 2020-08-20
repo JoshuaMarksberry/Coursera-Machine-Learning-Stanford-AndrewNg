@@ -1,8 +1,15 @@
 #1: 
+Course: (Single variable Calculus) 
+Videos: Somewhere on youtube
+Course: (Multivariable Calculus) https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm
+Videos: Somewhere on youtube
 
-#2:
 
-#3:
+#2: Kahnacademy  
+https://www.khanacademy.org/math/multivariable-calculus
+
+#3: Kahnacademy  
+https://www.khanacademy.org/math/differential-calculus
 
 #4: Calculus Cheat Sheet 1: 
 https://www.dropbox.com/s/0v8i2kguxx9esi2/Calculus_Cheat_Sheet1.pdf?dl=0
