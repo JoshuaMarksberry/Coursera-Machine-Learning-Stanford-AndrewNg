@@ -1,2 +1,64 @@
 # Linear Algebra 
 
+You need to know when to apply the formula, what it is used for, and how to solve it. 
+These are some sources that were very helpful for finishing this course. 
+You can actually download books in pdf form https://www.pdfdrive.com/ (Read the terms and download at your own risk)
+
+
+# 1 Strong Youtube Playlist + Materials (Professor Strang)
+
+Course : https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+Book: http://math.mit.edu/~gs/linearalgebra/
+Video Playlist: https://www.youtube.com/playlist?list=PL40CBD488A6A633C3
+
+
+# 2 Buy Book or Download PDF (https://www.pdfdrive.com/)
+
+Book: No bullsh*t guide to linear algebra
+
+
+# 3 Cheat sheet one:
+
+https://www.dropbox.com/s/mybq2e9ux3tq6z0/LinearAlgebracheat.pdf?dl=0
+
+# 4 Cheat sheet two:
+
+https://www.dropbox.com/s/tznmx3u3a1qnkf4/LinearAlgebracheat2.pdf?dl=0
+
+#5 
+
+https://www.freecodecamp.org/
+
+#6 
+Youtube Channels For Math/Data Science:
+
+#1: Kahnacademy  
+https://www.youtube.com/user/khanacademy
+
+#2: The Organic Chemistry Tutor 
+https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA
+
+#3: StatQuest with Josh Starmer 
+https://www.youtube.com/c/joshstarmer/featured
+
+#4: 
+MySecretMathTutor
+https://www.youtube.com/channel/UCcBOg_7QmpJFlIVMYDyUhaw
+
+#5 
+3Blue1Brown
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+Data Science: 
+
+#1: Siraj Raval
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+#2: Daniel Bourke
+https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
+
+#3:
+
+#4:
+
+#5:
