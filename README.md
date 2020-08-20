@@ -1,5 +1,5 @@
 # Coursera-Machine-Learning-Stanford-AndrewNg
-My progress on the Machine Learning Coursera Course by Andrew Ng. This will include resources used in the course. For those taking the course submit your own work. Use my code as a reference.  
+My progress on the Machine Learning Coursera Course by Andrew Ng. This will also include resources used in the course. For those taking the course submit your own work. Use my code as a reference.  
 
 # Course:
 https://www.coursera.org/learn/machine-learning
