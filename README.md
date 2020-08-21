@@ -9,9 +9,8 @@ Linear Algebra and Calculus
 https://www.coursera.org/learn/machine-learning
 
 # Contains:
-1. Lecture Slides (You can download them on coursera)
-2. My Notes/Tutorials on submitting assigments 
-3. Extra Resources for learning prerequites/materials for improving yourself
-4. Solutions to programming assignments
-5. Solutions to quizes
+1. Lecture Slides (This have solutions to mini quizes)
+2. My Notes/Tutorials for learning prerequites materials
+3. Solutions to programming assignments AND how to submit them.
+4. Solutions to quizes
 
