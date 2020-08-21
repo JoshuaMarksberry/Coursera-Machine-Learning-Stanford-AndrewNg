@@ -1,0 +1,23 @@
+Follow these steps to sucuessfully submit your programming assignments on Mymathlab online. 
+Please note:
+If you do only the assignments listed at the bottem of the elx.mlx file 
+and the solutions are correct you will get 100% on the course. 
+
+I will attach a video link below watch it if your confused.
+https://www.youtube.com/watch?v=Oa8lqT2LpIw&list=PLPnTj4mwEBw0uqF8Z1mf5NHHWIYgtvCPj
+
+
+Step #1 download the zip it. Location Week 2     
+Title:(Access to MATLAB Online and the Exercise Files for MATLAB Users)
+
+Step #2 MathLab Online (Login and upload files)
+# 1 Create an account/login
+# 2 Upload the folder and rename it to machinelearning
+# 3 You will need to extract the files. (once)
+# 4 You will have to make folders for Ex1-Ex9 and there corresonding subdirectory folders (Lib and inside lib {Jsonlab}) 
+# 5 EVERYTHING THAT WAS IN THE FOLDERS NEED TO BE UPLOADED TO MATLAB! You need to basically duplicate the files once. 
+# 6 Solve the problems listed inside of the code
+# 7 Once done with the listed problems at bottem of elx.mlx file TIME TO SUBMIT
+# 9 Click on that command window and type submit.
+# 10 Enter email and type/copy the new token 
+# 11 Token found on the program assignment page for the week you are working on. 
